@@ -1,5 +1,6 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
+<<<<<<< HEAD
 author: "Phil Wagner"
 date: "August 12, 2015"
 output: html_document
@@ -119,3 +120,28 @@ g <- g + labs(title= "Weekdays vs. Weekends")
 g
 ```
 
+=======
+output: 
+  html_document:
+    keep_md: true
+---
+
+
+## Loading and preprocessing the data
+
+
+
+## What is mean total number of steps taken per day?
+
+
+
+## What is the average daily activity pattern?
+
+
+
+## Imputing missing values
+
+
+
+## Are there differences in activity patterns between weekdays and weekends?
+>>>>>>> 80edf39c3bb508fee88e3394542f967dd3fd3270
